@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 2%;
+  background: #e1e8e3 ;
+  box-sizing: border-box;
+  
+
+
+}
+
+nav{
+  width: 101%;
+  
+background: black;
+display: flex;
+
+
+}
+
+nav a{
+  text-decoration: none;
+  color: lightcyan;
+  font-family: sans-serif;
+  display: inline;
+  padding: 25px 25px;
+  text-decoration: none;
+  text-align: left;
+
+}
+nav a:hover{
+  background-color: white;
+  color: black;
+  text-transform: uppercase;
+
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px 10px 25px;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
